@@ -1,12 +1,11 @@
-
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=220&section=header&text=TRAN%20VAN%20KIEN&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20%7C%20Full-stack%20Developer&descAlignY=58&descSize=18"
-    width="100%"
-    alt="Tran Van Kien Banner"
-  />
-</div>
 
+<!-- 🌸 Responsive Pink Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B2E,50:9D4EDD,100:EF93C4&height=230&section=header&text=TRAN%20VAN%20KIEN&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20%7C%20Full-stack%20Developer&descAlignY=58&descSize=18"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=230&section=header&text=TRAN%20VAN%20KIEN&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20%7C%20Full-stack%20Developer&descAlignY=58&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=230&section=header&text=TRAN%20VAN%20KIEN&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20%7C%20Full-stack%20Developer&descAlignY=58&descSize=18" alt="Header Banner"/>
+</picture>
 
 # 🌸 Hey there, I'm Trần Văn Kiên!
 

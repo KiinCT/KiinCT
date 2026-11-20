@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 🌸 Responsive Pink Banner -->
+<!-- 🌸 Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B2E,50:9D4EDD,100:EF93C4&height=230&section=header&text=TRAN%20VAN%20KIEN&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20%7C%20Full-stack%20Developer&descAlignY=58&descSize=18"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=230&section=header&text=TRAN%20VAN%20KIEN&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20%7C%20Full-stack%20Developer&descAlignY=58&descSize=18"/>
@@ -9,18 +9,12 @@
 
 # 🌸 Hey there, I'm Trần Văn Kiên!
 
-### Frontend Developer | Full-stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Modern+Web+Applications;Learning+Angular+%26+NestJS;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Modern+Web+Applications;Automating+Everything+I+Can+%E2%9A%99%EF%B8%8F;Learning+Angular+%26+NestJS;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://github.com/KiinCT">
-  <img src="https://img.shields.io/github/followers/KiinCT?style=for-the-badge&logo=github&color=EF93C4&labelColor=1E1B2E" alt="Followers"/>
-</a>
-<a href="https://github.com/KiinCT?tab=repositories">
-  <img src="https://img.shields.io/github/stars/KiinCT?style=for-the-badge&logo=github&color=F8BBD0&labelColor=1E1B2E" alt="Stars"/>
-</a>
+<a href="https://github.com/KiinCT"><img src="https://img.shields.io/github/followers/KiinCT?style=for-the-badge&logo=github&color=EF93C4&labelColor=1E1B2E" alt="Followers"/></a>
+<a href="https://github.com/KiinCT?tab=repositories"><img src="https://img.shields.io/github/stars/KiinCT?style=for-the-badge&logo=github&color=F8BBD0&labelColor=1E1B2E" alt="Stars"/></a>
 <img src="https://komarev.com/ghpvc/?username=KiinCT&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
@@ -31,48 +25,46 @@
 
 ---
 
-## 🌷 About Me | Giới thiệu bản thân
+## 🌷 About Me | Giới thiệu
 
 <table>
 <tr>
-<td width="65%" valign="center">
+<td width="65%" valign="top">
 
 ### 🇬🇧 English
 
-Hi! I'm **Tran Van Kien**, a developer passionate about web technologies and building useful digital products.
+Hi! I'm **Tran Van Kien**, a Software Engineering graduate from Vietnam who loves building useful digital products.
 
-- 💻 Interested in Frontend & Full-stack Development.
-- 🌱 Currently learning Angular, NestJS and MongoDB.
-- 🚀 Experienced with Bubble.io and web development projects.
-- 🎨 Interested in UI/UX and modern web interfaces.
-- 🔍 Always exploring new technologies and improving my skills.
-- 🎯 My goal is to become a professional Full-stack Developer.
+- 💻 Frontend & Full-stack development
+- 🛠️ Building internal tools, desktop apps (C#/WPF) and automation scripts
+- 🤖 Automating workflows with n8n, Python and Playwright
+- 🌱 Currently learning **Angular**, **NestJS** and **MongoDB**
+- 🎨 Passionate about UI/UX and modern web interfaces
+- 🎯 Goal: become a professional Full-stack Developer
 
 ### 🇻🇳 Tiếng Việt
 
-Xin chào! Mình là **Trần Văn Kiên**, một lập trình viên yêu thích công nghệ web và phát triển các sản phẩm số hữu ích.
+Xin chào! Mình là **Trần Văn Kiên**, kỹ sư phần mềm yêu thích xây dựng các sản phẩm số hữu ích.
 
-- 💻 Quan tâm đến lập trình Frontend và Full-stack.
-- 🌱 Đang học Angular, NestJS và MongoDB.
-- 🚀 Có kinh nghiệm thực hành Bubble.io và phát triển website.
-- 🎨 Yêu thích UI/UX và thiết kế giao diện hiện đại.
-- 🔍 Luôn tìm hiểu công nghệ mới và cải thiện kỹ năng.
-- 🎯 Mục tiêu trở thành Full-stack Developer chuyên nghiệp.
+- 💻 Quan tâm Frontend và Full-stack
+- 🛠️ Phát triển công cụ nội bộ, ứng dụng desktop (C#/WPF) và script tự động hóa
+- 🤖 Tự động hóa quy trình với n8n, Python và Playwright
+- 🌱 Đang học **Angular**, **NestJS** và **MongoDB**
+- 🎨 Yêu thích UI/UX và giao diện hiện đại
+- 🎯 Mục tiêu: trở thành Full-stack Developer chuyên nghiệp
 
 </td>
-<td width="35%" align="center" valign="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/KiinCT.png" width="190" style="border-radius:50%;" alt="Tran Van Kien"/>
+<img src="https://github.com/KiinCT.png" width="180" style="border-radius:50%;" alt="Tran Van Kien"/>
 
 <br/><br/>
 
 **Tran Van Kien**
 
-Developer | Vietnam 🇻🇳
+Developer · Vietnam 🇻🇳
 
-<a href="https://github.com/KiinCT">
-  <img src="https://img.shields.io/badge/GitHub-KiinCT-EF93C4?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://github.com/KiinCT"><img src="https://img.shields.io/badge/GitHub-KiinCT-EF93C4?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </td>
 </tr>
@@ -84,27 +76,29 @@ Developer | Vietnam 🇻🇳
 
 <div align="center">
 
-### 🎨 Frontend Development
+**🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap&theme=light" alt="Frontend Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap&theme=light" alt="Frontend"/>
 
-### ⚙️ Backend Development
+**⚙️ Backend & Languages**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs&theme=light" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python,cs,dotnet&theme=light" alt="Backend"/>
 
-### 🗄️ Database
+**🗄️ Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" alt="Database Skills"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" alt="Database"/>
 
-### 🛠️ Tools & Design
+**🛠️ Tools & Design**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,ps,ai&theme=light" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,figma,ps,ai&theme=light" alt="Tools"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Bubble.io-No--Code-EF93C4?style=for-the-badge" alt="Bubble.io"/>
-<img src="https://img.shields.io/badge/Canva-Design-F8BBD0?style=for-the-badge" alt="Canva"/>
-<img src="https://img.shields.io/badge/CapCut-Video%20Editing-FF69B4?style=for-the-badge" alt="CapCut"/>
+<img src="https://img.shields.io/badge/n8n-Automation-EF93C4?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Playwright-E2E%20Testing-F8BBD0?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Bubble.io-No--Code-FF69B4?style=for-the-badge" alt="Bubble.io"/>
+<img src="https://img.shields.io/badge/Canva-Design-EF93C4?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/CapCut-Video%20Editing-F8BBD0?style=for-the-badge" alt="CapCut"/>
 
 </div>
 
@@ -114,51 +108,36 @@ Developer | Vietnam 🇻🇳
 
 <div align="center">
 
-<a href="https://github.com/KiinCT/IACC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KiinCT&repo=IACC&theme=rose&hide_border=true" alt="IACC"/>
-</a>
-<a href="https://github.com/KiinCT/crypto-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KiinCT&repo=crypto-tracker&theme=rose&hide_border=true" alt="Crypto Tracker"/>
-</a>
-<a href="https://github.com/KiinCT/Internal-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KiinCT&repo=Internal-Management-System&theme=rose&hide_border=true" alt="Internal Management System"/>
-</a>
-<a href="https://github.com/KiinCT/AICC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KiinCT&repo=AICC&theme=rose&hide_border=true" alt="AICC"/>
-</a>
+<a href="https://github.com/KiinCT/IACC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KiinCT&repo=IACC&theme=rose&hide_border=true" alt="IACC"/></a>
+<a href="https://github.com/KiinCT/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KiinCT&repo=crypto-tracker&theme=rose&hide_border=true" alt="Crypto Tracker"/></a>
+<a href="https://github.com/KiinCT/Internal-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KiinCT&repo=Internal-Management-System&theme=rose&hide_border=true" alt="Internal Management System"/></a>
+<a href="https://github.com/KiinCT/AICC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KiinCT&repo=AICC&theme=rose&hide_border=true" alt="AICC"/></a>
 
 </div>
 
-### 🌟 More About My Projects
+<br/>
 
-| Project | Description |
-|:---|:---|
-| [IACC](https://github.com/KiinCT/IACC) | Website development project |
-| [Crypto Tracker](https://github.com/KiinCT/crypto-tracker) | Cryptocurrency tracking project |
-| [Internal Management System](https://github.com/KiinCT/Internal-Management-System) | Internal management application |
-| [AICC](https://github.com/KiinCT/AICC) | Application development project |
+| 📦 Project | 📝 Description | 🧰 Highlights |
+|:---|:---|:---|
+| [**IACC**](https://github.com/KiinCT/IACC) | Website & tools for a photo printing business | Web, internal tooling |
+| [**Crypto Tracker**](https://github.com/KiinCT/crypto-tracker) | Cryptocurrency price tracking app | Real-time data, clean UI |
+| [**Internal Management System**](https://github.com/KiinCT/Internal-Management-System) | Internal management application | CRUD, roles, dashboards |
+| [**AICC**](https://github.com/KiinCT/AICC) | Application development project | Full-stack practice |
 
 ---
 
-## 📊 GitHub Statistics | Thống kê GitHub
+## 📊 GitHub Statistics | Thống kê
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KiinCT&show_icons=true&theme=rose&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiinCT&layout=compact&theme=rose&hide_border=true" alt="Top Languages"/>
 
 <br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=KiinCT&theme=pink&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4" alt="GitHub Streak"/>
 
-</div>
-
----
-
-## 📈 Contribution Activity | Hoạt động GitHub
-
-<div align="center">
+<br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KiinCT&bg_color=ffffff&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" alt="Contribution Graph"/>
 
@@ -166,21 +145,14 @@ Developer | Vietnam 🇻🇳
 
 ---
 
-## 🐍 Contribution Snake | Rắn ăn contribution
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<!--
-GitHub Action setup:
-Create .github/workflows/snake.yml in your profile repository.
-
-Use the Platane/snk GitHub Action to generate the contribution snake
-and commit the output to the output branch.
-
-Then uncomment the image below.
--->
-
-<img src="https://raw.githubusercontent.com/KiinCT/KiinCT/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiinCT/KiinCT/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/KiinCT/KiinCT/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</picture>
 
 </div>
 
@@ -192,41 +164,26 @@ Then uncomment the image below.
 
 | Technology | Goal |
 |:---:|:---|
-| 🅰️ Angular | Building modern frontend applications |
-| 🟢 NestJS | Developing scalable backend APIs |
-| 🍃 MongoDB | Database design and management |
-| ⚡ JavaScript | Improving programming fundamentals |
-| 🎨 UI/UX | Creating better user experiences |
+| 🅰️ **Angular** | Building modern frontend applications |
+| 🟢 **NestJS** | Developing scalable backend APIs |
+| 🍃 **MongoDB** | Database design and management |
+| ⚡ **JavaScript / TypeScript** | Strengthening programming fundamentals |
+| 🎨 **UI/UX** | Creating better user experiences |
 
 </div>
 
 ---
 
-## 📫 Connect With Me | Kết nối với mình
+## 📫 Connect With Me | Kết nối
 
 <div align="center">
 
-<a href="https://github.com/KiinCT">
-  <img src="https://img.shields.io/badge/GitHub-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="YOUR_X_URL">
-  <img src="https://img.shields.io/badge/X-FF69B4?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="YOUR_INSTAGRAM_URL">
-  <img src="https://img.shields.io/badge/Instagram-EF93C4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="YOUR_TIKTOK_URL">
-  <img src="https://img.shields.io/badge/TikTok-F8BBD0?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-</a>
-<a href="YOUR_YOUTUBE_URL">
-  <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://github.com/KiinCT"><img src="https://img.shields.io/badge/GitHub-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<!-- Bỏ comment và thay link của bạn để hiện thêm:
+<a href="https://www.linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/YOUR_ID"><img src="https://img.shields.io/badge/Facebook-FF69B4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+-->
 
 <br/><br/>
 
